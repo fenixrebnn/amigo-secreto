@@ -14,7 +14,7 @@ Este projeto foi desenvolvido como parte do curso da Alura, em parceria com a Or
 - **HTML** para estruturação da página  
 - **CSS** para estilização e layout  
 - **JavaScript** para lógica de funcionamento
-- 
+  
 🎯 Como Usar  
 
 1. Digite o nome de um participante no campo de entrada  
